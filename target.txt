@@ -1,0 +1,62 @@
+version 4	-	19-5-2012 to 27-5-2012
+===============================================
+
+1. Init() - contact writer and properties - done
+2. finally block - close all the resources - done
+3. declare variables at initial stage - done
+4. remove variable declaration inside the loop - done
+5. remove unnecessary static methods - done
+6. create package structure - done
+7. avoid hard coding. use constants - done
+8. use generics contacts instead of object for hash map value - done
+9. Add try catch block for every statement - done
+10. add proper class and method comments so that it wil lbe useful for you to explain the functionality to others
+
+version 5	-	27-5-2012 to 27-5-2012
+===============================================
+
+1. Keep menu() in main class itself as separate method. You are passing ContactInitialzer class object to menu() in ContactsInitializer class itself. - done
+2. Still you are using default scope class variables. Change it. - done
+3. For class that has only one method, you can use is it as method variable itself. In future, you need further methods and if you feel any variable is common for all methods, then you can move it to class variable. - done
+NOTE: If initialization  of the variable is inside method, declare it as method variable, if in constructor, declare it as class variable.
+4. In finally block, check whether the reader or writer object is null or not before closing it. Sometimes when any error occurs before initialization of the reader and writer and in finally block again an null pointer exception may be caused. - done
+5. Why simply setting all the method variables to null in the finally block? It is not needed. - done
+6. For all the writers, you can create a base interface. - done
+
+version 6	-	27-5-2012 to 30-5-2012
+==============================================
+1. xml parsing
+2. hard code Name and number using xml parsing
+3. font size and color for excel and pdf file - xml parsing
+
+version 7	-	30-5-2012 to 31-5-2012
+==============================================
+
+1. For the places where u used SOP for just printing values for debugging purpose like list size, bean object value, use LOG.debug
+2. For the places where u used SOP, use LOG.info
+3. For the places where u used e.printstacktrace, use LOG.error and passes exception object there..
+
+version 8	-	31-5-2012 to till date
+==============================================
+
+1. jar file creation - done
+2. UI for current process as separate process using the created jar.
+3. menu split using string
+4. xml parsing - reverse process of vcf contact creation
+
+Proceed like following.
+1. At present you have hardcoded on how to read the .vcf file, convert it to xml configuration and read from that file. It should be common to read and write vcf file.
+2. Implement java modules to read xls, csv and pdf and convert it into .vcf file.
+3. Create jars and use it for GUI.
+4. Convert GUI to browse input file and covert it to selected format.
+5. Create sample JSP application.
+6. Create JSP application and convert files using the above jars.
+7. Convert JSP application also to browse and convert the files.
+
+1. Create an xml with tags based on which you can create and read .vcf file.
+2. Change the currently hard coded content to read vcf into values read from the above xml.
+3. Create classes to read the excel, csv and pdf files.
+4. Create a class which creates vcf file.
+5. All classes created in step 3 should use class created in step 4 to write vcf file.
+
+

@@ -1,0 +1,367 @@
+[2012-05-31 16:04:01]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-05-31 16:04:01]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-05-31 16:04:45]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-05-31 16:04:45]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-05-31 16:06:34]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-05-31 16:06:34]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-05-31 16:06:34]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[186]-Push the current object onto the stack
+[2012-05-31 16:06:34]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[189]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-05-31 16:06:34]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[194]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-05-31 16:06:34]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[199]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-05-31 16:06:34]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[186]-Push the current object onto the stack
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[189]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[194]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[199]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[226]-[]
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[227]-[]
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-[]
+[2012-05-31 16:12:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[229]-[]
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[186]-Push the current object onto the stack
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[189]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[194]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[199]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[226]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[227]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-05-31 16:13:03]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[229]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-05-31 16:13:11]-[ INFO]-[TextWriter.writeContacts()]-[42]-Text file created successfully!
+[2012-05-31 16:13:13]-[ INFO]-[CsvWriter.writeContacts()]-[49]-CSV File created successfully !
+[2012-05-31 16:13:14]-[ INFO]-[ExcelWriter.writeContacts()]-[60]-Excel file created successfully!
+[2012-05-31 16:13:15]-[ INFO]-[PDFWriter.writeContacts()]-[54]-PDF file created successfully!
+[2012-05-31 16:13:18]-[ INFO]-[ContactsSearch.searchName()]-[32]-Got mobile number from user
+[2012-05-31 16:13:18]-[ INFO]-[ContactsSearch.searchName()]-[44]-Number not found !
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[186]-Push the current object onto the stack
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[189]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[194]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[199]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[226]-[]
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[227]-[]
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-[]
+[2012-06-17 15:15:20]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[229]-[]
+[2012-06-17 15:15:56]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-06-17 15:15:56]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[186]-Push the current object onto the stack
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[189]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[194]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[199]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[226]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[227]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:15:57]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[229]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:34:51]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[41]-Push the current object onto the stack
+[2012-06-17 15:34:51]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[44]-Creates a new instance of the ContactBody class for name
+[2012-06-17 15:34:51]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[50]-Creates a new instance of the ContactBody class for number
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=N;C , Index=E:
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=TEL , Index=null
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[41]-Push the current object onto the stack
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[44]-Creates a new instance of the ContactBody class for name
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[50]-Creates a new instance of the ContactBody class for number
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=N;C , Index=E:
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=TEL , Index=null
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[41]-Push the current object onto the stack
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[44]-Creates a new instance of the ContactBody class for name
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[50]-Creates a new instance of the ContactBody class for number
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=N;C , Index=E:
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=TEL , Index=null
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[41]-Push the current object onto the stack
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[44]-Creates a new instance of the ContactBody class for name
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[50]-Creates a new instance of the ContactBody class for number
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=N;C , Index=E:
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=TEL , Index=null
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[41]-Push the current object onto the stack
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[44]-Creates a new instance of the ContactBody class for name
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.initXmlContacts()]-[50]-Creates a new instance of the ContactBody class for number
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=N;C , Index=E:
+[2012-06-17 15:34:52]-[ INFO]-[ContactsGenerator.addBody()]-[69]-Begin=TEL , Index=null
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[186]-Push the current object onto the stack
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[189]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[194]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[199]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[226]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[227]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:34:52]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[229]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlContacts()]-[176]-Push the current object onto the stack
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlContacts()]-[179]-Creates a new instance of the ContactBody class for name
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlContacts()]-[185]-Creates a new instance of the ContactBody class for number
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.addBody()]-[204]-Begin=N;C , Index=E:
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.addBody()]-[204]-Begin=TEL , Index=L:
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initContacts()]-[150]-5 contacts added to list successfully !
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initContacts()]-[151]-5 contacts added to map successfully !
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[224]-Push the current object onto the stack
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[227]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[232]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[237]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 15:40:00]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[245]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 15:40:01]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[264]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:40:01]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[265]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:40:01]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[266]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:40:01]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[267]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:43:28]-[ INFO]-[ContactsInitializer.initContacts()]-[148]-5 contacts added to list successfully !
+[2012-06-17 15:43:28]-[ INFO]-[ContactsInitializer.initContacts()]-[149]-5 contacts added to map successfully !
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[186]-Push the current object onto the stack
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[189]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[194]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[199]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[226]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[227]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[229]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlBody()]-[252]-Push the current object onto the stack
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlBody()]-[255]-Creates a new instance of the ContactBody class for name
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.initXmlBody()]-[261]-Creates a new instance of the ContactBody class for number
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.addBody()]-[280]-Begin=N;C , Index=E:
+[2012-06-17 15:43:29]-[ INFO]-[ContactsInitializer.addBody()]-[280]-Begin=TEL , Index=L:
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initContacts()]-[169]-5 contacts added to list successfully !
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initContacts()]-[170]-5 contacts added to map successfully !
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Push the current object onto the stack
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[210]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[215]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[247]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[248]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[249]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[250]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlBody()]-[273]-Push the current object onto the stack
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlBody()]-[276]-Creates a new instance of the ContactBody class for name
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlBody()]-[282]-Creates a new instance of the ContactBody class for number
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlBody()]-[299]-[Begin=N;C , Index=E:]
+[2012-06-17 16:05:13]-[ INFO]-[ContactsInitializer.initXmlBody()]-[300]-[Begin=TEL , Index=L:]
+[2012-06-17 16:17:21]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Push the current object onto the stack
+[2012-06-17 16:17:21]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[210]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 16:17:21]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[215]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 16:17:21]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 16:17:21]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[247]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[248]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[249]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[250]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlBody()]-[273]-Push the current object onto the stack
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlBody()]-[276]-Creates a new instance of the ContactBody class for name
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlBody()]-[282]-Creates a new instance of the ContactBody class for number
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlBody()]-[299]-[Begin=N;C , Index=E:]
+[2012-06-17 16:17:22]-[ INFO]-[ContactsInitializer.initXmlBody()]-[300]-[Begin=TEL , Index=L:]
+[2012-06-17 16:19:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Push the current object onto the stack
+[2012-06-17 16:19:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[210]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 16:19:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[215]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 16:19:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 16:19:13]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[247]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[248]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[249]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[250]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[273]-Push the current object onto the stack
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[276]-Creates a new instance of the ContactBody class for name
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[282]-Creates a new instance of the ContactBody class for number
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[299]-[Begin=N;C , Index=E:]
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[300]-[Begin=TEL , Index=L:]
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initContacts()]-[169]-5 contacts added to list successfully !
+[2012-06-17 16:19:14]-[ INFO]-[ContactsInitializer.initContacts()]-[170]-5 contacts added to map successfully !
+[2012-06-17 16:19:52]-[ INFO]-[TextWriter.writeContacts()]-[42]-Text file created successfully!
+[2012-06-17 16:19:54]-[ INFO]-[CsvWriter.writeContacts()]-[49]-CSV File created successfully !
+[2012-06-17 16:19:58]-[ INFO]-[ExcelWriter.writeContacts()]-[60]-Excel file created successfully!
+[2012-06-17 16:20:00]-[ INFO]-[PDFWriter.writeContacts()]-[54]-PDF file created successfully!
+[2012-06-17 16:20:12]-[ INFO]-[ContactsSearch.searchName()]-[32]-Got mobile number from user
+[2012-06-17 16:20:12]-[ INFO]-[ContactsSearch.searchName()]-[36]-Search Found !
+[2012-06-17 16:20:12]-[ INFO]-[ContactsSearch.searchName()]-[37]-Contact Name : A ravind Vodafo
+[2012-06-17 16:20:12]-[ INFO]-[ContactsSearch.searchName()]-[38]-Contact Number :+919884297070
+[2012-06-17 16:20:23]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[207]-Push the current object onto the stack
+[2012-06-17 16:20:23]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[210]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-17 16:20:23]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[215]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-17 16:20:23]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-17 16:20:23]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[228]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[247]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[248]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[249]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[250]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlBody()]-[273]-Push the current object onto the stack
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlBody()]-[276]-Creates a new instance of the ContactBody class for name
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlBody()]-[282]-Creates a new instance of the ContactBody class for number
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlBody()]-[299]-[Begin=N;C , Index=E:]
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initXmlBody()]-[300]-[Begin=TEL , Index=L:]
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initContacts()]-[169]-5 contacts added to list successfully !
+[2012-06-17 16:20:24]-[ INFO]-[ContactsInitializer.initContacts()]-[170]-5 contacts added to map successfully !
+[2012-06-17 16:20:32]-[ INFO]-[ContactsSearch.searchName()]-[32]-Got mobile number from user
+[2012-06-17 16:20:32]-[ INFO]-[ContactsSearch.searchName()]-[44]-Number not found !
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[217]-Push the current object onto the stack
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[225]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[230]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[238]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[257]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[258]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[259]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[260]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlBody()]-[283]-Push the current object onto the stack
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlBody()]-[286]-Creates a new instance of the ContactBody class for name
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlBody()]-[292]-Creates a new instance of the ContactBody class for number
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlBody()]-[309]-[Begin=N;C , Index=E:]
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initXmlBody()]-[310]-[Begin=TEL , Index=L:]
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initContacts()]-[179]-5 contacts added to list successfully !
+[2012-06-19 16:01:31]-[ INFO]-[ContactsInitializer.initContacts()]-[180]-5 contacts added to map successfully !
+[2012-06-19 16:01:37]-[ INFO]-[TextReader.readContacts()]-[43]-5 contacts added to list from text file successfully !
+[2012-06-19 16:01:37]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[22]-Push the current object onto the stack
+[2012-06-19 16:01:37]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[25]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[217]-Push the current object onto the stack
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[225]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[230]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[238]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[257]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[258]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[259]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[260]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[283]-Push the current object onto the stack
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[286]-Creates a new instance of the ContactBody class for name
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[292]-Creates a new instance of the ContactBody class for number
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[309]-[Begin=N;C , Index=E:]
+[2012-06-19 16:02:14]-[ INFO]-[ContactsInitializer.initXmlBody()]-[310]-[Begin=TEL , Index=L:]
+[2012-06-19 16:02:15]-[ INFO]-[ContactsInitializer.initContacts()]-[179]-5 contacts added to list successfully !
+[2012-06-19 16:02:15]-[ INFO]-[ContactsInitializer.initContacts()]-[180]-5 contacts added to map successfully !
+[2012-06-19 16:02:18]-[ INFO]-[TextReader.readContacts()]-[43]-5 contacts added to list from text file successfully !
+[2012-06-19 16:02:18]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[22]-Push the current object onto the stack
+[2012-06-19 16:02:18]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[25]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[217]-Push the current object onto the stack
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[225]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[230]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[238]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[257]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[258]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[259]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[260]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlBody()]-[283]-Push the current object onto the stack
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlBody()]-[286]-Creates a new instance of the ContactBody class for name
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlBody()]-[292]-Creates a new instance of the ContactBody class for number
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlBody()]-[309]-[Begin=N;C , Index=E:]
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initXmlBody()]-[310]-[Begin=TEL , Index=L:]
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initContacts()]-[179]-5 contacts added to list successfully !
+[2012-06-19 16:03:50]-[ INFO]-[ContactsInitializer.initContacts()]-[180]-5 contacts added to map successfully !
+[2012-06-19 16:03:53]-[ INFO]-[TextReader.readContacts()]-[43]-5 contacts added to list from text file successfully !
+[2012-06-19 16:03:53]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[22]-Push the current object onto the stack
+[2012-06-19 16:03:53]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[25]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 16:10:05]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[217]-Push the current object onto the stack
+[2012-06-19 16:10:05]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 16:10:05]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[225]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-19 16:10:05]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[230]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-19 16:10:05]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[238]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[257]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[258]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[259]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[260]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlBody()]-[283]-Push the current object onto the stack
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlBody()]-[286]-Creates a new instance of the ContactBody class for name
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlBody()]-[292]-Creates a new instance of the ContactBody class for number
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlBody()]-[309]-[Begin=N;C , Index=E:]
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initXmlBody()]-[310]-[Begin=TEL , Index=L:]
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initContacts()]-[179]-5 contacts added to list successfully !
+[2012-06-19 16:10:06]-[ INFO]-[ContactsInitializer.initContacts()]-[180]-5 contacts added to map successfully !
+[2012-06-19 16:10:08]-[ INFO]-[TextReader.readContacts()]-[43]-5 contacts added to list from text file successfully !
+[2012-06-19 16:10:08]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[22]-Push the current object onto the stack
+[2012-06-19 16:10:08]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[25]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 17:09:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[217]-Push the current object onto the stack
+[2012-06-19 17:09:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 17:09:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[225]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-19 17:09:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[230]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-19 17:09:29]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[238]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[257]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[258]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[259]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[260]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlBody()]-[283]-Push the current object onto the stack
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlBody()]-[286]-Creates a new instance of the ContactBody class for name
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlBody()]-[292]-Creates a new instance of the ContactBody class for number
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlBody()]-[309]-[Begin=N;C , Index=E:]
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initXmlBody()]-[310]-[Begin=TEL , Index=L:]
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initContacts()]-[179]-5 contacts added to list successfully !
+[2012-06-19 17:09:30]-[ INFO]-[ContactsInitializer.initContacts()]-[180]-5 contacts added to map successfully !
+[2012-06-19 17:09:33]-[ INFO]-[TextReader.readContacts()]-[43]-5 contacts added to list from text file successfully !
+[2012-06-19 17:09:33]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[23]-Push the current object onto the stack
+[2012-06-19 17:09:33]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[26]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[217]-Push the current object onto the stack
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[225]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[230]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[238]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[257]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[258]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[259]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[260]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlBody()]-[283]-Push the current object onto the stack
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlBody()]-[286]-Creates a new instance of the ContactBody class for name
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlBody()]-[292]-Creates a new instance of the ContactBody class for number
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlBody()]-[309]-[Begin=N;C , Index=E:]
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initXmlBody()]-[310]-[Begin=TEL , Index=L:]
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initContacts()]-[179]-5 contacts added to list successfully !
+[2012-06-19 17:10:41]-[ INFO]-[ContactsInitializer.initContacts()]-[180]-5 contacts added to map successfully !
+[2012-06-19 17:10:44]-[ INFO]-[TextReader.readContacts()]-[43]-5 contacts added to list from text file successfully !
+[2012-06-19 17:10:44]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[23]-Push the current object onto the stack
+[2012-06-19 17:10:44]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[26]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[217]-Push the current object onto the stack
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[220]-Creates a new instance of the ContactHeader class for Text Contact
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[225]-Creates a new instance of the ContactHeader class for CSV Contact
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[230]-Creates a new instance of the ContactHeader class for Excel Contact
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[238]-Creates a new instance of the ContactHeader class for PDF Contact
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[257]-[Title=Contact Name , Font=null , Size=null & Color=null, Title=Contact Number , Font=null , Size=null & Color=null]
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[258]-[Title=Contact_Name , Font=null , Size=null & Color=null, Title=Contact_Number , Font=null , Size=null & Color=null]
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[259]-[Title=ContactName , Font=Arial , Size=16 & Color=green, Title=ContactNumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlHeader()]-[260]-[Title=Contactname , Font=Arial , Size=16 & Color=green, Title=Contactnumber , Font=Times New Roman , Size=16 & Color=green]
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlBody()]-[283]-Push the current object onto the stack
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlBody()]-[286]-Creates a new instance of the ContactBody class for name
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlBody()]-[292]-Creates a new instance of the ContactBody class for number
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlBody()]-[309]-[Begin=N;C , Index=E:]
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initXmlBody()]-[310]-[Begin=TEL , Index=L:]
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initContacts()]-[179]-5 contacts added to list successfully !
+[2012-06-20 16:55:54]-[ INFO]-[ContactsInitializer.initContacts()]-[180]-5 contacts added to map successfully !
+[2012-06-20 16:56:03]-[ INFO]-[TextReader.readContacts()]-[43]-5 contacts added to list from text file successfully !
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[26]-Push the current object onto the stack
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[29]-Creates a new instance of the VcfFormat class for VCFContact Format
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.formatVcf()]-[47]-VCF file format is stored ina string
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Airte VCF File created successfully !
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Vodafo VCF File created successfully !
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A vani VCF File created successfully !
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Aarthi Mam VCF File created successfully !
+[2012-06-20 16:56:03]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Abenash VCF File created successfully !
+[2012-06-20 16:56:07]-[ INFO]-[CsvReader.readContacts()]-[43]-5 contacts added to list from csv file successfully !
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[26]-Push the current object onto the stack
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[29]-Creates a new instance of the VcfFormat class for VCFContact Format
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.formatVcf()]-[47]-VCF file format is stored ina string
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Airte VCF File created successfully !
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Vodafo VCF File created successfully !
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A vani VCF File created successfully !
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Aarthi Mam VCF File created successfully !
+[2012-06-20 16:56:07]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Abenash VCF File created successfully !
+[2012-06-20 16:56:10]-[ INFO]-[ExcelReader.readContacts()]-[66]-5 contacts added to list from excel file successfully !
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[26]-Push the current object onto the stack
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[29]-Creates a new instance of the VcfFormat class for VCFContact Format
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.formatVcf()]-[47]-VCF file format is stored ina string
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Airte VCF File created successfully !
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Vodafo VCF File created successfully !
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A vani VCF File created successfully !
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Aarthi Mam VCF File created successfully !
+[2012-06-20 16:56:10]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Abenash VCF File created successfully !
+[2012-06-20 16:56:13]-[ INFO]-[PDFReader.readContacts()]-[44]-5 contacts added to list from pdf file successfully !
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[26]-Push the current object onto the stack
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.vcfXmlReader()]-[29]-Creates a new instance of the VcfFormat class for VCFContact Format
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.formatVcf()]-[47]-VCF file format is stored ina string
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Airte VCF File created successfully !
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A ravind Vodafo VCF File created successfully !
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-A vani VCF File created successfully !
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Aarthi Mam VCF File created successfully !
+[2012-06-20 16:56:13]-[ INFO]-[VcfGenerator.generateVcf()]-[77]-Abenash VCF File created successfully !

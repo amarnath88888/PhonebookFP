@@ -1,0 +1,45 @@
+Naming convention:
+==================
+* method name start with a verb. (readFile, writeFile)
+* class name using its functionality in a generalized name.(TextWriter, TextReader, TextCreater)
+* Variable name should start with small case.
+* Don’t declare two variables in a same line.
+* Name the variables, methods and classes meaningfully
+
+Modifiers:
+==========
+* Use private - variables and methods that is not called outside the class.
+* no default modifier anywhere in program
+* no modifiers for local variables
+
+Collections:
+============
+* Its size is growable and not like array whose size is fixed.
+* It can hold different objects and primitive data types whereas array is a collection of members of same data type.
+* Collections can be generalized using Generics which tells the collection to accept only specific time of objects to store in it.
+* Avoid using arrays for holding objects, instead use list.
+* use generics whenever needed
+
+Tips
+====
+* Declare variables initially so that it looks neat and easy to expand in future and to sort out errors
+* Avoid declaring variables inside loop as it may allocate space for variable in each iteration and hence it affects performance.
+* If a variable's value is used again in a class, declare it as class variable
+* If the variable is used only within a method and not outside the method, declare locally as method variable.
+* For class that has only one method, you can use is it as method variable itself.
+* In future, you need further methods and if you feel any variable is common for all methods, then you can move it to class variable.
+* If initialization of the variable is inside method, declare it as method variable, if in constructor, declare it as class variable.
+* Avoid accessing class variables outside directly, instead put a getter, setter method for the variable(declare as private) and use it.
+* avoid hard coding. use constants, declare it as public. final, static if needed and declare in separate class.
+
+* remove unnecessary static methods, instead create method and include in a class. static methods are removed from memory only at the end of the program.
+* Don’t repeat same set of coding in any place. Instead create a common method and use it.
+
+* Try to generalize the classes and separate it from business logic and thereby you can use the generalize class in many other areas.
+* create package structure to have hierarchy, create package according to the classes functionality and name it accordingly
+* initialize the objects in constructor if it is used in all the methods in the class, else initialize locally inside method
+* finally block - close all the resources used by checking whether the resources(like reader or writer) object is null or not before closing it.
+* Add try catch block for every statement required and handle using corresponding catch
+* add proper class and method comments so that it will be useful for you to explain the functionality to others
+
+* For all the writers and readers, you can create a base interface.

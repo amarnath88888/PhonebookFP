@@ -1,0 +1,61 @@
+[2012-05-31 16:12:30]-[ERROR]-[ContactsInitializer.initXmlHeader()]-[220]-java.net.MalformedURLException
+[2012-05-31 16:13:18]-[ERROR]-[Phonebook.menu()]-[90]-java.io.IOException: Stream closed
+[2012-06-17 15:15:20]-[ERROR]-[ContactsInitializer.initXmlHeader()]-[220]-java.net.MalformedURLException
+[2012-06-17 16:17:21]-[ERROR]-[ContactsInitializer.initContacts()]-[175]-contacts not created !
+[2012-06-17 16:17:21]-[ERROR]-[ContactsInitializer.initContacts()]-[176]-java.lang.IndexOutOfBoundsException: Index: 0, Size: 0
+[2012-06-17 16:20:12]-[ERROR]-[Phonebook.menu()]-[91]-java.io.IOException: Stream closed
+[2012-06-17 16:20:32]-[ERROR]-[Phonebook.menu()]-[91]-java.io.IOException: Stream closed
+[2012-06-19 16:01:37]-[ERROR]-[Phonebook.menu()]-[123]-java.lang.NullPointerException
+[2012-06-19 16:02:18]-[ERROR]-[Phonebook.menu()]-[123]-java.lang.NullPointerException
+[2012-06-19 16:10:08]-[ERROR]-[Digester.endElement()]-[1060]-End event threw exception
+java.lang.ClassNotFoundException: List
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.apache.commons.digester.SetNextRule.end(SetNextRule.java:243)
+	at org.apache.commons.digester.Rule.end(Rule.java:276)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1058)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1567)
+	at com.vcf.VcfGenerator.vcfXmlReader(VcfGenerator.java:32)
+	at com.main.Phonebook.menu(Phonebook.java:112)
+	at com.main.Phonebook.main(Phonebook.java:42)
+[2012-06-19 16:10:08]-[ERROR]-[VcfGenerator.vcfXmlReader()]-[37]-java.lang.ClassNotFoundException: List
+[2012-06-19 17:09:33]-[ERROR]-[Digester.endElement()]-[1060]-End event threw exception
+java.lang.ClassNotFoundException: List<Contacts>
+	at java.net.URLClassLoader$1.run(Unknown Source)
+	at java.security.AccessController.doPrivileged(Native Method)
+	at java.net.URLClassLoader.findClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at sun.misc.Launcher$AppClassLoader.loadClass(Unknown Source)
+	at java.lang.ClassLoader.loadClass(Unknown Source)
+	at org.apache.commons.digester.SetNextRule.end(SetNextRule.java:243)
+	at org.apache.commons.digester.Rule.end(Rule.java:276)
+	at org.apache.commons.digester.Digester.endElement(Digester.java:1058)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.endElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanEndElement(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl$FragmentContentDriver.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentScannerImpl.next(Unknown Source)
+	at com.sun.org.apache.xerces.internal.impl.XMLDocumentFragmentScannerImpl.scanDocument(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XML11Configuration.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.XMLParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.parsers.AbstractSAXParser.parse(Unknown Source)
+	at com.sun.org.apache.xerces.internal.jaxp.SAXParserImpl$JAXPSAXParser.parse(Unknown Source)
+	at org.apache.commons.digester.Digester.parse(Digester.java:1567)
+	at com.vcf.VcfGenerator.vcfXmlReader(VcfGenerator.java:33)
+	at com.main.Phonebook.menu(Phonebook.java:112)
+	at com.main.Phonebook.main(Phonebook.java:42)
+[2012-06-19 17:09:33]-[ERROR]-[VcfGenerator.vcfXmlReader()]-[38]-java.lang.ClassNotFoundException: List<Contacts>

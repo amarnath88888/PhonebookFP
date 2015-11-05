@@ -1,0 +1,64 @@
+<?xml version="1.0"?>
+<contacts>
+ 
+ <textcontact>
+ 
+  <header>
+   <title>Contact Name</title>
+  </header>
+  
+ <header>
+    <title>Contact Number</title>
+  </header>
+  
+ </textcontact>
+
+ <csvcontact>
+ 
+  <header>
+   <title>Contact_Name</title>
+  </header>
+  
+ <header>
+    <title>Contact_Number</title>
+  </header>
+  
+ </csvcontact>
+ 
+ <excelcontact> 
+ 
+  <header>
+   <title>ContactName</title>
+   <font>Arial</font>
+   <size>16</size>
+   <color>green</color>
+  </header>
+ 
+  <header>
+   <title>ContactNumber</title>
+   <font>Times New Roman</font>
+   <size>16</size>
+   <color>green</color>
+  </header>  
+  
+ </excelcontact>
+ 
+ <pdfcontact>  
+ 
+  <header>
+   <title>Contactname</title>
+   <font>Arial</font>
+   <size>16</size>
+   <color>green</color>
+  </header>
+ 
+  <header>
+   <title>Contactnumber</title>
+   <font>Times New Roman</font>
+   <size>16</size>
+   <color>green</color>
+  </header> 
+  
+ </pdfcontact>
+
+</contacts>
